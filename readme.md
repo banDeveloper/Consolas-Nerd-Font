@@ -9,3 +9,5 @@ fontforge -script font-patcher consolab.ttf --complete
 fontforge -script font-patcher consolai.ttf --complete
 fontforge -script font-patcher consolaz.ttf --complete
 ```
+
+I don't understand licesing so I have no idea if Microsoft permits this.
